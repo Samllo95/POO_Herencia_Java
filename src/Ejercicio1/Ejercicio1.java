@@ -20,7 +20,7 @@ public class Ejercicio1 {
         System.out.println(mypian.tipoPiano);
         System.out.println(mypian.tocarMelodia());
         
-        System.out.println("\nPiano*******************************");
+        System.out.println("\nTrompeta*******************************");
         Trompeta mytromp=new Trompeta("Cobre", "T31", 1910, "Stomvi");
         System.out.println(mytromp.fabricante);
         System.out.println(mytromp.modelo);
